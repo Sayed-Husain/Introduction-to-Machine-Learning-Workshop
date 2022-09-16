@@ -1,7 +1,7 @@
 # Introduction-to-Machine-Learning-Workshop
 Introduction to machine learning repository created by Sayed Husain Mohamed.
 
-This workshop/repo is an introductory workshop to the world of Machine Learning using Python programming language, **`pandas`**, **`numpy`**, **`matplotlib`**, and **`scikit-learn`** library.
+This workshop/repo is an introductory workshop to the world of Machine Learning using Python programming language, and the **`pandas`**, **`numpy`**, **`matplotlib`**, and **`scikit-learn`** libraries.
 
 
 
@@ -46,7 +46,12 @@ This workshop/repo is an introductory workshop to the world of Machine Learning 
 
 ## Links
 * Find the slides of the workshop [**Here**](https://docs.google.com/presentation/d/1Rjj0QWgnrM4s-ardPSVGvDqqiE4AqPmydJONeaepoGE/edit?usp=sharing)
-* Find Complete Python Reference in [**W3School**](https://www.w3schools.com/python/default.asp)
+* Find the link to Google Collab [**Here**](https://colab.research.google.com/)
+* Find **W3School**'s Complete Python Reference in [**Here**](https://www.w3schools.com/python/default.asp)
+* Find **W3School**'s Complete Pandas Reference in [**Here**](https://www.w3schools.com/python/pandas/default.asp)
+* Find **W3School**'s Complete Numpy Reference in [**Here**](https://www.w3schools.com/python/numpy/default.asp)
+* Find **W3School**'s Complete Matplotlib Reference in [**Here**](https://www.w3schools.com/python/matplotlib_intro.asp)
+
 
 ## Course Foundation
 
